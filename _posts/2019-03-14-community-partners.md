@@ -19,8 +19,8 @@ Founding Day Celebration Sale
 
 First 100 tickets up for grabs
 
-[Buy the Free discount voucher](https://ti.to/the-hd-tour/march-weekends/with/hg6jgd-thhu) [voucher](https://ti.to/the-hd-tour/march-weekends/with/hg6jgd-thhu)
 
+[Buy the Limited Edition discount voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacp)
 
 Our Live Partners where you can utilise the HDTicket voucher
 

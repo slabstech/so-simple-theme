@@ -9,12 +9,6 @@ date: 2019-03-14T08:08:50-04:00
 
 ---
 
-
-### The South Chimney
-
-
-
-
 #### The Special dish
 
 * ##### Prawns on my leaf
@@ -53,15 +47,4 @@ date: 2019-03-14T08:08:50-04:00
 
 * Compliant to Halal-Cut to cater to the diverse audience.
 
-
-
-2 day experience tour
-
-for our friends and future tourists
-
-
-[Buy the Free discount voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy) [voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy)
-
-<!--
-[Buy the 1 Dollar discount voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy) [voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy)
--->
+[Buy the Limited Edition discount voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy)
