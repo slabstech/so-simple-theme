@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The HD Tour : Community Business"
+title: "Community Partners"
 excerpt: "Shop and Treat Yourself"
 categories: travel
 tags: [ travel ]
