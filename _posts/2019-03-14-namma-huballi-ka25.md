@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "The HD Tour : Iternary"
-excerpt: "Namma Hubballi Dharwada Hawa"
+layout: page
+title: "The HD Tour : Community Business"
+excerpt: "Shop and Treat Yourself"
 categories: travel
 tags: [ travel ]
 
