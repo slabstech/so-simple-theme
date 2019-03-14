@@ -23,7 +23,17 @@ Save More Than Rs. 500 at our community partners
 
 * Rs 50 off at purchases of Rs. 500+
 
-* Rs 100 off at purchases of Rs. 1500+
+Terms and Conditions
+
+* The ticket is valid for one person and can be used only once at each community partner establishment
+
+* The ticket is not transferable and non-refundable
+
+* The ticket is valid for 3 months from date of issue
+
+* The ticket should be presented along a Valid Photo ID proof.
+
+
 
 
 contact us :  
