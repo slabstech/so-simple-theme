@@ -24,9 +24,9 @@ First 100 tickets up for grabs
 
 Our Live Partners where you can utilise the HDTicket voucher
 
-* [Eat yummy tasty food at South Chimney , promoted by Jaysheel Balmi]({{ site.baseurl }}{% link _posts/partners/2019-03-14-south-chimney %})
+* [Eat yummy tasty food at South Chimney , promoted by Jaysheel Balmi]({{ site.baseurl }}{% link _posts/partners/2019-03-14-south-chimney.md %})
 
-* [Fashion and imitation jewellery at Vitrag gold , promoted by Mayur Kothari]({{ site.baseurl }}{% link _posts/partners/2019-03-14-vitrag-gold %})
+* [Fashion and imitation jewellery at Vitrag gold , promoted by Mayur Kothari]({{ site.baseurl }}{% link _posts/partners/2019-03-14-vitrag-gold.md %})
 
 
 <!--
