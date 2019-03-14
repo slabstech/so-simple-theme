@@ -16,7 +16,7 @@ Of the Land of
 
 #### Poets and Warriors
 
-[Buy the Limited Edition discount voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy)
+[Buy the Limited Edition discount voucher](https://ti.to/the-hd-tour/hd-limited-edition-march)
 
 
 Save More Than Rs. 500 at our community partners
