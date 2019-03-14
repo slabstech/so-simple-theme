@@ -15,9 +15,21 @@ Two day experience tour in Hubballi Dharwada
 for our friends and future tourists
 
 
-[Buy the 1 Dollar discount voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy) [voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy)
+Founding Day Celebration Sale
+
+First 100 tickets up for grabs
+
+[Buy the Free discount voucher](https://ti.to/the-hd-tour/march-weekends/with/hg6jgd-thhu) [voucher](https://ti.to/the-hd-tour/march-weekends/with/hg6jgd-thhu)
 
 
+Our Live Partners where you can utilise the HDTicket voucher
+
+* [Eat yummy tasty food at South Chimney , promoted by Jaysheel Balmi]({{ site.baseurl }}{% link _posts/partners/2019-03-14-south-chimney %})
+
+* [Fashion and imitation jewellery at Vitrag gold , promoted by Mayur Kothari]({{ site.baseurl }}{% link _posts/partners/2019-03-14-vitrag-gold %})
+
+
+<!--
 Buy products and get Discounts at our local community business
 
 * [Buy delicious Chocolates from A & A Chocolates , promoted by Anand Kustagi](aachocolates.in)
@@ -35,3 +47,4 @@ Buy products and get Discounts at our local community business
 * [Partake healthy nutritious drinks, promoted by Gagandeep Hosmani](slabs.tech)
 
 * [Fashion and imitation jewellery at Vitrag gold , promoted by Mayur Kothari](slabs.tech)
+-->

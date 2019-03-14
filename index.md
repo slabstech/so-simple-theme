@@ -16,9 +16,11 @@ Of the Land of
 
 #### Poets and Warriors
 
+[Buy the 1 Dollar discount voucher](https://ti.to/the-hd-tour/march-weekends/with/hg6jgd-thhu)[voucher](https://ti.to/the-hd-tour/march-weekends/with/hg6jgd-thhu)
 
+<!--
 [Buy the 1 Dollar discount voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy) [voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy)
-
+-->
 Save More Than Rs. 500 at our community partners
 
 * Rs 50 off at purchases of Rs. 500+
