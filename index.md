@@ -18,9 +18,7 @@ Of the Land of
 
 
 
-
-
-To get full itinerary and discount vouchers to use at our community partners
+Utilise discount vouchers to use at our community partners
 
 * Rs 50 off at purchases of Rs. 500+
 
@@ -28,12 +26,11 @@ To get full itinerary and discount vouchers to use at our community partners
 
 
 contact us :  
-[facebook](facebook.com/thehdtour)
-
-[instagram](instagram.com/thehdtour)
-
-[twitter](twitter.com/thehdtour)
+[facebook](facebook.com/thehdtour)  [instagram](instagram.com/thehdtour)  [twitter](twitter.com/thehdtour)
 
 or send mail to :
 
 info _at_ slabs.tech
+
+-------------------------------------------------------------
+-------------------------------------------------------------
