@@ -17,8 +17,9 @@ Of the Land of
 #### Poets and Warriors
 
 
+[Buy the 1 Dollar discount voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy) [voucher](https://ti.to/the-hd-tour/march-weekends/with/mlk-6mmacpy)
 
-Utilise discount vouchers to use at our community partners
+Save More Than Rs. 500 at our community partners
 
 * Rs 50 off at purchases of Rs. 500+
 
@@ -26,11 +27,8 @@ Utilise discount vouchers to use at our community partners
 
 
 contact us :  
-[facebook](facebook.com/thehdtour)  [instagram](instagram.com/thehdtour)  [twitter](twitter.com/thehdtour)
+[facebook](facebook.com/thehdtour)          [instagram](instagram.com/thehdtour)       [twitter](twitter.com/thehdtour)
 
-or send mail to :
-
-info _at_ slabs.tech
 
 -------------------------------------------------------------
 -------------------------------------------------------------
