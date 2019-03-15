@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "The Silver Culture"
-excerpt: "handcrafted silver art for the Diva in You"
-categories: partner
-tags: [ partner ]
+title: "Akshay Patra : ISKCON"
+excerpt: "Gods at Work : Feeding millions of School Going Kids"
+categories: experience
+tags: [ experience ]
 
 date: 2019-03-14T08:08:50-04:00
 
