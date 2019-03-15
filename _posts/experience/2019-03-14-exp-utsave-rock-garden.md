@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "The Silver Culture"
-excerpt: "handcrafted silver art for the Diva in You"
+title: " the Utsav Rock Garden"
+excerpt: "Be amazed at the magic of handcrafted rock artifacts"
 categories: experience
 tags: [ experience ]
 

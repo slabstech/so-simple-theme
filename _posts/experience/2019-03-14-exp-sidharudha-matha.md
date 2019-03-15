@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "The Silver Culture"
-excerpt: "handcrafted silver art for the Diva in You"
+title: "Siddharudha Matha"
+excerpt: "Meditate amidst the serene setting of Siddharudha Math"
 categories: experience
 tags: [ experience ]
 

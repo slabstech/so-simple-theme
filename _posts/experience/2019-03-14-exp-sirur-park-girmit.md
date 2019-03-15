@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "The Silver Culture"
-excerpt: "handcrafted silver art for the Diva in You"
+title: "Girmit / Sandwich"
+excerpt: "Savour the flavour of Girmit and Sandwich at Sirur Park"
 categories: experience
 tags: [ experience ]
 

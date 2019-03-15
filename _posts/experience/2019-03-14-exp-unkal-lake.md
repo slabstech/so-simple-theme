@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "The Silver Culture"
-excerpt: "handcrafted silver art for the Diva in You"
+title: "Serene Unkal Lake"
+excerpt: "Take joy boat ride in the calm waters of Unkal Lake"
 categories: experience
 tags: [ experience ]
 

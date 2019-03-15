@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "The Silver Culture"
-excerpt: "handcrafted silver art for the Diva in You"
+title: "Chandramouleshwara Temple"
+excerpt: "Time Travel to a place built 900 years ago"
 categories: experience
 tags: [ experience ]
 
