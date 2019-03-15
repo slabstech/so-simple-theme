@@ -10,16 +10,6 @@ date: 2019-03-14T09:08:50-04:00
 ---
 
 
-Two day experience tour in Hubballi Dharwada
-
-for our friends and future tourists
-
-
-Founding Day Celebration Sale
-
-First 100 tickets up for grabs
-
-
 [Buy the Limited Edition discount voucher](https://ti.to/the-hd-tour/hd-limited-edition-march)
 
 Our Live Partners where you can utilise the HDTicket voucher
@@ -30,6 +20,7 @@ Our Live Partners where you can utilise the HDTicket voucher
 
 * [Silver handcrafted for the diva in you at The Silver Culture, promoted by Chandni Kothari ]({{ site.baseurl }}{% link _posts/partners/2019-03-14-silver-culture.md %})
 
+* [Witness and Get Hands-on Tour of Cashew sorting industry and buy the best quality nuts, promoted by Ashish Bohara]({{ site.baseurl }}{% link _posts/partners/2019-03-15-cashew-factory.md %})
 <!--
 Buy products and get Discounts at our local community business
 
