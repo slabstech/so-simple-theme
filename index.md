@@ -23,6 +23,8 @@ Save More Than Rs. 500 at our community partners
 
 * Rs 50 off at purchases of Rs. 500+
 
+* Tickets can also be bought at our community partners
+
 Terms and Conditions
 
 * The ticket is valid for one person and can be used only once at each community partner establishment
@@ -35,10 +37,4 @@ Terms and Conditions
 
 
 
-<!--
-contact us :  
-[facebook](facebook.com/thehdtour)          [instagram](instagram.com/thehdtour)       [twitter](twitter.com/thehdtour)
--->
-
--------------------------------------------------------------
 -------------------------------------------------------------
