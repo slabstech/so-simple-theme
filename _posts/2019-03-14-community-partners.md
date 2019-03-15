@@ -28,7 +28,7 @@ Our Live Partners where you can utilise the HDTicket voucher
 
 * [Fashion and imitation jewellery at Vitrag gold , promoted by Mayur Kothari]({{ site.baseurl }}{% link _posts/partners/2019-03-14-vitrag-gold.md %})
 
-* [Silver handcrafted for the diva in you at The Silver Culture, promoted by Chandni Kothari ]({{ site.baseurl }}{% link _posts/partners/2019-03-14-vitrag-gold.md %})
+* [Silver handcrafted for the diva in you at The Silver Culture, promoted by Chandni Kothari ]({{ site.baseurl }}{% link _posts/partners/2019-03-14-silver-culture.md %})
 
 <!--
 Buy products and get Discounts at our local community business
