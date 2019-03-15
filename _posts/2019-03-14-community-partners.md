@@ -20,7 +20,7 @@ Our Live Partners where you can utilise the HDTicket voucher
 
 * [Silver handcrafted for the diva in you at The Silver Culture, promoted by Chandni Kothari ]({{ site.baseurl }}{% link _posts/partners/2019-03-14-silver-culture.md %})
 
-* [Witness and Get Hands-on Tour of Cashew sorting industry and buy the best quality nuts, promoted by Ashish Bohara]({{ site.baseurl }}{% link _posts/partners/2019-03-15-cashew-factory.md %})
+* [Witness and Get Hands-on Tour of Cashew sorting industry and buy the best quality nuts, promoted by Ashish Bohara]({{ site.baseurl }}{% link _posts/partners/2019-03-14-cashew-factory.md %})
 <!--
 Buy products and get Discounts at our local community business
 
