@@ -12,7 +12,7 @@ date: 2019-03-14T08:08:50-04:00
 
 ### What do i get here ?
 
-
+handcrafted gold necklace and gold items of pure art
 
 ### Hello ?
 
