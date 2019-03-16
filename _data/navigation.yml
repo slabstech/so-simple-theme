@@ -1,6 +1,11 @@
 # Sample site navigation bar links
 
-- title: Home
-  url: /
+- title: Experience
+  url: /experience/
+
+- title: Partners
+  url: /partners/
+
+
 - title: Search
   url: /search/
