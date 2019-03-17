@@ -2,8 +2,8 @@
 layout: page
 title: "Vitrag Gold : Imitation Jewellery"
 excerpt: "Imitation is the best form of Flattery"
-categories: partner
-tags: [ partner ]
+categories: partners
+tags: [ partners ]
 
 date: 2019-03-14T08:08:50-04:00
 

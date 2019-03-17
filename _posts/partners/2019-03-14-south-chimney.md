@@ -2,8 +2,8 @@
 layout: page
 title: "The South Chimney"
 excerpt: "Delicacies of the deccan multi-cuisine served on Banana leaves"
-categories: partner
-tags: [ partner ]
+categories: partners
+tags: [ partners ]
 
 date: 2019-03-14T08:08:50-04:00
 
