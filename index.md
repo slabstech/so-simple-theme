@@ -25,16 +25,7 @@ Save More Than Rs. 500 at our community partners
 
 * Tickets can also be bought at our community partners
 
-Terms and Conditions
 
-* The ticket is valid for one person and can be used only once at each community partner establishment
-
-* The ticket is not transferable and non-refundable
-
-* The ticket is valid for 3 months from date of issue
-
-* The ticket should be presented along a Valid Photo ID proof.
-
-
+* [Find more information about the Benefits of TheHDTour Tickets]({{ site.baseurl }}{% link _posts/2019-03-14-patron-benefits.md %})
 
 -------------------------------------------------------------
