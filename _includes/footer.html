@@ -18,7 +18,11 @@
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Built with love for and by Hubballi Dharwada Community</p>
+      <p>Built with love for and by Hubballi Dharwada Community</p>
     {% endif %}
+  </div>
+
+  <div class="company">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.  <a href="https://slabs.tech">The S Labs Solutions Initiative</a> </p>
   </div>
 </footer>

@@ -14,7 +14,10 @@ Delivering experiences for a 2 day stay to witness
 
 Of the Land of
 
-#### Poets and Warriors
+### Poets and Warriors
+
+##### [Hd Tour App : Install](https://play.google.com/store/apps/details?id=com.slabstech.thehdtour.app)
+
 
 [Buy the Limited Edition discount voucher](https://ti.to/the-hd-tour/hd-limited-edition-march)
 
